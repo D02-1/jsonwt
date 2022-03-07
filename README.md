@@ -6,16 +6,23 @@ Admin Role
 
 Records
 POST/GET/PUT/DELETE.
+
 Users
 POST/GET/PUT/DELETE.
+
 Orders
 POST/GET/PUT/DELETE.
+
+----
+
 Client Role
 
 Records
 GET.
+
 Users
 POST/GET/PUT/DELETE.
+
 Orders
 POST/GET/PUT/DELETE.
 TODO
